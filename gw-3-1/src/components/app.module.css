@@ -1,0 +1,70 @@
+* {
+    margin: 0 ;
+    padding: 0;
+}
+.container {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0 auto;
+    font-weight: 700;
+    padding: 15px;
+    overflow: hidden;
+}
+.li{
+    display: flex;
+    justify-content: space-between;
+}
+.input{
+    
+
+}
+.h2{
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.h1{
+    font-size: 26px;
+    font-weight: 700;
+    color: blue;
+
+}
+.buttonAdd{
+    background-color: blue;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-weight: 700;
+    border-radius: 6px;
+    border: 2 px solid black;
+    width: 350px;
+}
+.button{
+    background-color: red;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-weight: 700;
+    border-radius: 6px;
+    border: 2 px solid black;
+}
+.spanName{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+
+}
+.spanNumber{
+    
+        font-size: 20px;
+        font-weight: 700;
+        color: black;
+}
+.name{
+    font-size: 16px;
+    font-weight: 800;
+    color: black;
+}
+.input{
+    width: 350px;
+}
